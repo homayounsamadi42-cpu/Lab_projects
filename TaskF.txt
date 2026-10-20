@@ -1,0 +1,24 @@
+Part F — Understanding Inheritance
+
+According to task E:
+
+Answer the following questions.
+Question 1
+Which class is the parent class?
+Answer:Person is the parent class
+Question 2
+Which class is the child class?
+Answer: Student is the child class
+Question 3
+Which keyword creates the inheritance relationship?
+Answer: extend
+Question 4
+The introduce() method was written inside which class?
+Answer:Person(parent)
+Question 5
+Can the $student1 object call introduce() ?
+Answer:Yes. all of the parent methods are public. so we can use 
+and call them for all of it's child classes 
+Question 6
+Why can $student1 use introduce() even though it is not written inside the Student class?
+Answer:all of the parent public methods are can be used by there child classes.
